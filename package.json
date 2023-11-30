@@ -1,0 +1,25 @@
+{
+  "name": "gpt-recommendation",
+  "version": "1.0.0",
+  "description": "Events recommendation system build using OpenAI GPT and GPT functions",
+  "scripts": {
+    "prepare": "husky install"
+  },
+  "keywords": [
+    "ai",
+    "gpt",
+    "recommendation",
+    "openai",
+    "gpt-3"
+  ],
+  "author": "Kyaw Zin Thiha",
+  "license": "MIT",
+  "devDependencies": {
+    "husky": "^8.0.3",
+    "lint-staged": "^15.1.0",
+    "prettier": "^3.1.0"
+  },
+  "lint-staged": {
+    "*.{ts,tsx,css,md}": "prettier --write"
+  }
+}
