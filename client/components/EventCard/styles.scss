@@ -1,0 +1,65 @@
+.event-card {
+  background-color: #fafafa;
+  border: 1px solid #e0e0e0;
+  border-radius: 8px;
+  padding: 20px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: box-shadow 0.3s;
+  position: relative;
+
+  &:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  }
+
+  .header {
+    min-height: 65px;
+
+    h2 {
+      margin: 0;
+      color: #333;
+    }
+
+    p {
+      margin: 5px 0;
+      color: #555;
+      font-size: 0.9em;
+    }
+  }
+
+  .description {
+    color: #666;
+    min-height: 80px;
+    margin-top: 10px;
+  }
+
+  .venue {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #444;
+  }
+
+  .tags {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    margin-top: 10px;
+
+    .tag {
+      background-color: #e0e0e0;
+      border-radius: 5px;
+      padding: 5px 10px;
+      font-size: 0.85em;
+    }
+  }
+
+  .price {
+    background-color: #4caf50;
+    color: white;
+    padding: 5px 10px;
+    position: absolute;
+    top: 20px;
+    right: 20px;
+    border-radius: 5px;
+    font-weight: bold;
+  }
+}
