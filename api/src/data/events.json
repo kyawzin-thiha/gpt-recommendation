@@ -1,0 +1,1506 @@
+[
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 37",
+        "price": "$169",
+        "tags": [
+            "sports",
+            "fun",
+            "meetup",
+            "food"
+        ],
+        "location": "Location 13",
+        "date": "2023-11-19",
+        "startTime": "06:44",
+        "endTime": "23:57"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 9",
+        "price": "$54",
+        "tags": [
+            "fun",
+            "art",
+            "music",
+            "education"
+        ],
+        "location": "Location 42",
+        "date": "2023-11-09",
+        "startTime": "01:28",
+        "endTime": "00:56"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 13",
+        "price": "$198",
+        "tags": [
+            "music",
+            "technology"
+        ],
+        "location": "Location 33",
+        "date": "2023-09-22",
+        "startTime": "23:28",
+        "endTime": "05:05"
+    },
+    {
+        "name": "Photography Workshop",
+        "description": "A workshop focusing on photography skills and techniques, led by professional photographers.",
+        "venue": "Venue 26",
+        "price": "$28",
+        "tags": [
+            "art",
+            "education",
+            "fun",
+            "music"
+        ],
+        "location": "Location 37",
+        "date": "2023-03-11",
+        "startTime": "21:58",
+        "endTime": "16:15"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 50",
+        "price": "$70",
+        "tags": [
+            "art",
+            "fun",
+            "festival"
+        ],
+        "location": "Location 43",
+        "date": "2023-09-15",
+        "startTime": "19:11",
+        "endTime": "21:11"
+    },
+    {
+        "name": "Sunset Jazz Festival",
+        "description": "An evening of soothing jazz music against the backdrop of a beautiful sunset.",
+        "venue": "Venue 44",
+        "price": "$25",
+        "tags": [
+            "fun",
+            "food",
+            "meetup",
+            "horror"
+        ],
+        "location": "Location 38",
+        "date": "2023-09-15",
+        "startTime": "10:02",
+        "endTime": "08:01"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 17",
+        "price": "$194",
+        "tags": [
+            "horror",
+            "festival",
+            "music"
+        ],
+        "location": "Location 8",
+        "date": "2023-05-06",
+        "startTime": "17:32",
+        "endTime": "21:47"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 35",
+        "price": "$113",
+        "tags": [
+            "food",
+            "technology",
+            "sports",
+            "meetup"
+        ],
+        "location": "Location 49",
+        "date": "2023-04-01",
+        "startTime": "06:05",
+        "endTime": "22:13"
+    },
+    {
+        "name": "Sunset Jazz Festival",
+        "description": "An evening of soothing jazz music against the backdrop of a beautiful sunset.",
+        "venue": "Venue 3",
+        "price": "$150",
+        "tags": [
+            "food",
+            "art",
+            "sports"
+        ],
+        "location": "Location 45",
+        "date": "2023-10-19",
+        "startTime": "07:50",
+        "endTime": "20:42"
+    },
+    {
+        "name": "Science Fiction Book Club",
+        "description": "A monthly meetup for science fiction enthusiasts to discuss their favorite books.",
+        "venue": "Venue 26",
+        "price": "$47",
+        "tags": [
+            "festival"
+        ],
+        "location": "Location 34",
+        "date": "2023-08-28",
+        "startTime": "21:40",
+        "endTime": "05:40"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 30",
+        "price": "$139",
+        "tags": [
+            "art",
+            "sports",
+            "food",
+            "fun"
+        ],
+        "location": "Location 24",
+        "date": "2023-06-28",
+        "startTime": "00:25",
+        "endTime": "01:37"
+    },
+    {
+        "name": "Tech Innovators Conference",
+        "description": "A conference showcasing the latest trends in technology and innovation.",
+        "venue": "Venue 21",
+        "price": "$91",
+        "tags": [
+            "food",
+            "fun",
+            "sports",
+            "horror",
+            "art"
+        ],
+        "location": "Location 28",
+        "date": "2023-09-24",
+        "startTime": "14:29",
+        "endTime": "08:02"
+    },
+    {
+        "name": "Beach Volleyball Championship",
+        "description": "A competitive beach volleyball tournament set on scenic beaches.",
+        "venue": "Venue 34",
+        "price": "$134",
+        "tags": [
+            "technology",
+            "fun",
+            "meetup"
+        ],
+        "location": "Location 11",
+        "date": "2023-01-25",
+        "startTime": "21:35",
+        "endTime": "05:21"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 30",
+        "price": "$142",
+        "tags": [
+            "food"
+        ],
+        "location": "Location 24",
+        "date": "2023-04-08",
+        "startTime": "01:53",
+        "endTime": "12:31"
+    },
+    {
+        "name": "City Marathon",
+        "description": "A challenging citywide marathon open to runners of all levels.",
+        "venue": "Venue 36",
+        "price": "$144",
+        "tags": [
+            "music",
+            "food",
+            "horror",
+            "festival",
+            "meetup"
+        ],
+        "location": "Location 14",
+        "date": "2023-03-13",
+        "startTime": "12:19",
+        "endTime": "21:51"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 38",
+        "price": "$20",
+        "tags": [
+            "meetup",
+            "horror",
+            "sports",
+            "art"
+        ],
+        "location": "Location 35",
+        "date": "2023-03-09",
+        "startTime": "16:02",
+        "endTime": "08:35"
+    },
+    {
+        "name": "Photography Workshop",
+        "description": "A workshop focusing on photography skills and techniques, led by professional photographers.",
+        "venue": "Venue 48",
+        "price": "$168",
+        "tags": [
+            "meetup",
+            "horror",
+            "technology",
+            "sports",
+            "fun"
+        ],
+        "location": "Location 16",
+        "date": "2023-07-13",
+        "startTime": "23:40",
+        "endTime": "07:09"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 24",
+        "price": "$64",
+        "tags": [
+            "education"
+        ],
+        "location": "Location 48",
+        "date": "2023-01-11",
+        "startTime": "11:34",
+        "endTime": "04:08"
+    },
+    {
+        "name": "Art in the Park",
+        "description": "An outdoor exhibition showcasing works from local artists in a natural setting.",
+        "venue": "Venue 10",
+        "price": "$46",
+        "tags": [
+            "art",
+            "food",
+            "festival",
+            "education",
+            "music"
+        ],
+        "location": "Location 31",
+        "date": "2023-10-19",
+        "startTime": "19:47",
+        "endTime": "13:16"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 34",
+        "price": "$84",
+        "tags": [
+            "technology",
+            "sports",
+            "food",
+            "meetup"
+        ],
+        "location": "Location 32",
+        "date": "2023-06-12",
+        "startTime": "23:48",
+        "endTime": "14:01"
+    },
+    {
+        "name": "Dirty Disco",
+        "description": "An electrifying night of dance and music, featuring top DJs and a vibrant light show.",
+        "venue": "Venue 31",
+        "price": "$23",
+        "tags": [
+            "education",
+            "horror",
+            "fun",
+            "sports"
+        ],
+        "location": "Location 2",
+        "date": "2023-11-03",
+        "startTime": "06:26",
+        "endTime": "15:56"
+    },
+    {
+        "name": "Global Hackathon",
+        "description": "A competitive event where teams develop innovative solutions in a limited time.",
+        "venue": "Venue 20",
+        "price": "$25",
+        "tags": [
+            "education",
+            "sports",
+            "horror",
+            "food",
+            "meetup"
+        ],
+        "location": "Location 24",
+        "date": "2023-07-28",
+        "startTime": "14:18",
+        "endTime": "01:43"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 12",
+        "price": "$153",
+        "tags": [
+            "horror",
+            "technology",
+            "fun"
+        ],
+        "location": "Location 33",
+        "date": "2023-11-13",
+        "startTime": "02:07",
+        "endTime": "06:05"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 34",
+        "price": "$51",
+        "tags": [
+            "music",
+            "art",
+            "festival",
+            "sports",
+            "fun"
+        ],
+        "location": "Location 19",
+        "date": "2023-03-01",
+        "startTime": "00:05",
+        "endTime": "08:33"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 39",
+        "price": "$28",
+        "tags": [
+            "meetup",
+            "fun",
+            "horror",
+            "art"
+        ],
+        "location": "Location 30",
+        "date": "2023-12-14",
+        "startTime": "08:14",
+        "endTime": "15:40"
+    },
+    {
+        "name": "Classical Music Gala",
+        "description": "An evening of classical music performances by renowned musicians and orchestras.",
+        "venue": "Venue 6",
+        "price": "$20",
+        "tags": [
+            "fun",
+            "art",
+            "meetup"
+        ],
+        "location": "Location 20",
+        "date": "2023-12-14",
+        "startTime": "11:54",
+        "endTime": "20:20"
+    },
+    {
+        "name": "Science Fiction Book Club",
+        "description": "A monthly meetup for science fiction enthusiasts to discuss their favorite books.",
+        "venue": "Venue 44",
+        "price": "$160",
+        "tags": [
+            "horror"
+        ],
+        "location": "Location 16",
+        "date": "2023-07-19",
+        "startTime": "03:26",
+        "endTime": "19:24"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 49",
+        "price": "$116",
+        "tags": [
+            "fun",
+            "meetup"
+        ],
+        "location": "Location 21",
+        "date": "2023-11-09",
+        "startTime": "15:15",
+        "endTime": "14:46"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 38",
+        "price": "$34",
+        "tags": [
+            "festival"
+        ],
+        "location": "Location 18",
+        "date": "2023-05-19",
+        "startTime": "12:45",
+        "endTime": "16:01"
+    },
+    {
+        "name": "Science Fiction Book Club",
+        "description": "A monthly meetup for science fiction enthusiasts to discuss their favorite books.",
+        "venue": "Venue 13",
+        "price": "$49",
+        "tags": [
+            "festival",
+            "education",
+            "art",
+            "meetup"
+        ],
+        "location": "Location 6",
+        "date": "2023-05-07",
+        "startTime": "20:26",
+        "endTime": "02:19"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 43",
+        "price": "$67",
+        "tags": [
+            "technology",
+            "horror",
+            "food",
+            "fun",
+            "sports"
+        ],
+        "location": "Location 16",
+        "date": "2023-06-22",
+        "startTime": "01:12",
+        "endTime": "08:37"
+    },
+    {
+        "name": "Local Food Fair",
+        "description": "A celebration of local cuisine with a variety of food stalls and cooking demonstrations.",
+        "venue": "Venue 14",
+        "price": "$82",
+        "tags": [
+            "food",
+            "fun"
+        ],
+        "location": "Location 15",
+        "date": "2023-03-24",
+        "startTime": "00:36",
+        "endTime": "06:28"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 19",
+        "price": "$82",
+        "tags": [
+            "meetup",
+            "sports",
+            "technology",
+            "music",
+            "fun"
+        ],
+        "location": "Location 26",
+        "date": "2023-04-03",
+        "startTime": "21:03",
+        "endTime": "15:14"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 20",
+        "price": "$108",
+        "tags": [
+            "sports",
+            "food"
+        ],
+        "location": "Location 21",
+        "date": "2023-07-05",
+        "startTime": "12:28",
+        "endTime": "09:15"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 10",
+        "price": "$194",
+        "tags": [
+            "food",
+            "horror"
+        ],
+        "location": "Location 5",
+        "date": "2023-05-15",
+        "startTime": "07:29",
+        "endTime": "20:57"
+    },
+    {
+        "name": "Tech Innovators Conference",
+        "description": "A conference showcasing the latest trends in technology and innovation.",
+        "venue": "Venue 12",
+        "price": "$198",
+        "tags": [
+            "technology",
+            "sports",
+            "festival"
+        ],
+        "location": "Location 39",
+        "date": "2023-10-27",
+        "startTime": "09:38",
+        "endTime": "02:46"
+    },
+    {
+        "name": "Tech Innovators Conference",
+        "description": "A conference showcasing the latest trends in technology and innovation.",
+        "venue": "Venue 46",
+        "price": "$63",
+        "tags": [
+            "horror"
+        ],
+        "location": "Location 41",
+        "date": "2023-09-14",
+        "startTime": "15:28",
+        "endTime": "08:22"
+    },
+    {
+        "name": "Underground Rock Concert",
+        "description": "A high-energy rock concert featuring emerging and popular bands.",
+        "venue": "Venue 10",
+        "price": "$98",
+        "tags": [
+            "education"
+        ],
+        "location": "Location 14",
+        "date": "2023-05-17",
+        "startTime": "19:04",
+        "endTime": "21:47"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 20",
+        "price": "$144",
+        "tags": [
+            "food"
+        ],
+        "location": "Location 34",
+        "date": "2023-12-25",
+        "startTime": "21:19",
+        "endTime": "23:11"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 25",
+        "price": "$144",
+        "tags": [
+            "food",
+            "horror",
+            "fun",
+            "sports",
+            "art"
+        ],
+        "location": "Location 31",
+        "date": "2023-03-26",
+        "startTime": "09:19",
+        "endTime": "00:40"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 19",
+        "price": "$55",
+        "tags": [
+            "education",
+            "horror",
+            "music",
+            "art",
+            "festival"
+        ],
+        "location": "Location 5",
+        "date": "2023-11-06",
+        "startTime": "00:19",
+        "endTime": "16:49"
+    },
+    {
+        "name": "Photography Workshop",
+        "description": "A workshop focusing on photography skills and techniques, led by professional photographers.",
+        "venue": "Venue 41",
+        "price": "$29",
+        "tags": [
+            "fun",
+            "sports"
+        ],
+        "location": "Location 25",
+        "date": "2023-03-25",
+        "startTime": "07:13",
+        "endTime": "17:55"
+    },
+    {
+        "name": "Local Food Fair",
+        "description": "A celebration of local cuisine with a variety of food stalls and cooking demonstrations.",
+        "venue": "Venue 26",
+        "price": "$146",
+        "tags": [
+            "technology",
+            "food",
+            "music",
+            "horror"
+        ],
+        "location": "Location 22",
+        "date": "2023-02-12",
+        "startTime": "12:46",
+        "endTime": "17:09"
+    },
+    {
+        "name": "Underground Rock Concert",
+        "description": "A high-energy rock concert featuring emerging and popular bands.",
+        "venue": "Venue 23",
+        "price": "$51",
+        "tags": [
+            "festival",
+            "food",
+            "art",
+            "meetup"
+        ],
+        "location": "Location 46",
+        "date": "2023-05-23",
+        "startTime": "14:11",
+        "endTime": "15:29"
+    },
+    {
+        "name": "Science Fiction Book Club",
+        "description": "A monthly meetup for science fiction enthusiasts to discuss their favorite books.",
+        "venue": "Venue 44",
+        "price": "$162",
+        "tags": [
+            "technology",
+            "fun"
+        ],
+        "location": "Location 50",
+        "date": "2023-12-05",
+        "startTime": "15:47",
+        "endTime": "05:49"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 48",
+        "price": "$86",
+        "tags": [
+            "festival",
+            "sports",
+            "horror",
+            "art"
+        ],
+        "location": "Location 4",
+        "date": "2023-04-10",
+        "startTime": "08:26",
+        "endTime": "15:22"
+    },
+    {
+        "name": "Dirty Disco",
+        "description": "An electrifying night of dance and music, featuring top DJs and a vibrant light show.",
+        "venue": "Venue 50",
+        "price": "$181",
+        "tags": [
+            "horror",
+            "festival",
+            "fun",
+            "music",
+            "art"
+        ],
+        "location": "Location 15",
+        "date": "2023-04-26",
+        "startTime": "04:38",
+        "endTime": "08:33"
+    },
+    {
+        "name": "Dirty Disco",
+        "description": "An electrifying night of dance and music, featuring top DJs and a vibrant light show.",
+        "venue": "Venue 1",
+        "price": "$71",
+        "tags": [
+            "art",
+            "sports",
+            "festival"
+        ],
+        "location": "Location 18",
+        "date": "2023-02-13",
+        "startTime": "01:26",
+        "endTime": "19:54"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 5",
+        "price": "$172",
+        "tags": [
+            "education"
+        ],
+        "location": "Location 9",
+        "date": "2023-09-02",
+        "startTime": "06:31",
+        "endTime": "02:05"
+    },
+    {
+        "name": "Midnight Movie Marathon",
+        "description": "A late-night movie screening featuring cult classics and new indie films.",
+        "venue": "Venue 45",
+        "price": "$166",
+        "tags": [
+            "fun",
+            "education",
+            "horror",
+            "music",
+            "food"
+        ],
+        "location": "Location 43",
+        "date": "2023-10-27",
+        "startTime": "20:14",
+        "endTime": "18:24"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 13",
+        "price": "$118",
+        "tags": [
+            "art",
+            "education",
+            "meetup"
+        ],
+        "location": "Location 9",
+        "date": "2023-11-12",
+        "startTime": "18:32",
+        "endTime": "09:59"
+    },
+    {
+        "name": "Sunset Jazz Festival",
+        "description": "An evening of soothing jazz music against the backdrop of a beautiful sunset.",
+        "venue": "Venue 14",
+        "price": "$66",
+        "tags": [
+            "music"
+        ],
+        "location": "Location 23",
+        "date": "2023-03-04",
+        "startTime": "02:26",
+        "endTime": "05:39"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 31",
+        "price": "$72",
+        "tags": [
+            "education",
+            "technology",
+            "horror"
+        ],
+        "location": "Location 42",
+        "date": "2023-12-26",
+        "startTime": "17:28",
+        "endTime": "18:58"
+    },
+    {
+        "name": "Art in the Park",
+        "description": "An outdoor exhibition showcasing works from local artists in a natural setting.",
+        "venue": "Venue 5",
+        "price": "$16",
+        "tags": [
+            "horror",
+            "technology",
+            "food",
+            "sports",
+            "meetup"
+        ],
+        "location": "Location 41",
+        "date": "2023-01-09",
+        "startTime": "19:07",
+        "endTime": "16:47"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 31",
+        "price": "$192",
+        "tags": [
+            "music",
+            "meetup",
+            "food",
+            "art"
+        ],
+        "location": "Location 38",
+        "date": "2023-08-12",
+        "startTime": "08:05",
+        "endTime": "14:15"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 35",
+        "price": "$169",
+        "tags": [
+            "festival",
+            "food",
+            "technology",
+            "fun"
+        ],
+        "location": "Location 14",
+        "date": "2023-07-16",
+        "startTime": "21:34",
+        "endTime": "19:34"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 5",
+        "price": "$175",
+        "tags": [
+            "music"
+        ],
+        "location": "Location 4",
+        "date": "2023-04-26",
+        "startTime": "15:05",
+        "endTime": "17:12"
+    },
+    {
+        "name": "Art in the Park",
+        "description": "An outdoor exhibition showcasing works from local artists in a natural setting.",
+        "venue": "Venue 12",
+        "price": "$128",
+        "tags": [
+            "festival",
+            "horror",
+            "food",
+            "meetup"
+        ],
+        "location": "Location 25",
+        "date": "2023-10-26",
+        "startTime": "13:40",
+        "endTime": "12:13"
+    },
+    {
+        "name": "Science Fiction Book Club",
+        "description": "A monthly meetup for science fiction enthusiasts to discuss their favorite books.",
+        "venue": "Venue 39",
+        "price": "$48",
+        "tags": [
+            "technology"
+        ],
+        "location": "Location 50",
+        "date": "2023-02-11",
+        "startTime": "11:08",
+        "endTime": "13:12"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 1",
+        "price": "$144",
+        "tags": [
+            "food",
+            "horror",
+            "technology"
+        ],
+        "location": "Location 9",
+        "date": "2023-06-28",
+        "startTime": "10:08",
+        "endTime": "19:53"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 47",
+        "price": "$175",
+        "tags": [
+            "music",
+            "food",
+            "meetup"
+        ],
+        "location": "Location 5",
+        "date": "2023-06-01",
+        "startTime": "23:11",
+        "endTime": "12:42"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 8",
+        "price": "$149",
+        "tags": [
+            "meetup",
+            "fun",
+            "festival",
+            "technology",
+            "art"
+        ],
+        "location": "Location 5",
+        "date": "2023-09-17",
+        "startTime": "17:54",
+        "endTime": "16:54"
+    },
+    {
+        "name": "Global Hackathon",
+        "description": "A competitive event where teams develop innovative solutions in a limited time.",
+        "venue": "Venue 37",
+        "price": "$21",
+        "tags": [
+            "meetup",
+            "food",
+            "festival",
+            "education"
+        ],
+        "location": "Location 21",
+        "date": "2023-05-11",
+        "startTime": "14:08",
+        "endTime": "18:57"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 33",
+        "price": "$74",
+        "tags": [
+            "art",
+            "sports",
+            "music"
+        ],
+        "location": "Location 21",
+        "date": "2023-12-09",
+        "startTime": "06:31",
+        "endTime": "06:34"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 48",
+        "price": "$83",
+        "tags": [
+            "music",
+            "education"
+        ],
+        "location": "Location 43",
+        "date": "2023-08-25",
+        "startTime": "03:11",
+        "endTime": "00:25"
+    },
+    {
+        "name": "Sunset Jazz Festival",
+        "description": "An evening of soothing jazz music against the backdrop of a beautiful sunset.",
+        "venue": "Venue 1",
+        "price": "$20",
+        "tags": [
+            "art",
+            "technology",
+            "meetup"
+        ],
+        "location": "Location 15",
+        "date": "2023-01-16",
+        "startTime": "10:26",
+        "endTime": "03:39"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 35",
+        "price": "$150",
+        "tags": [
+            "food",
+            "sports"
+        ],
+        "location": "Location 42",
+        "date": "2023-02-14",
+        "startTime": "03:42",
+        "endTime": "08:24"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 15",
+        "price": "$109",
+        "tags": [
+            "music",
+            "horror"
+        ],
+        "location": "Location 13",
+        "date": "2023-04-01",
+        "startTime": "06:48",
+        "endTime": "14:44"
+    },
+    {
+        "name": "City Marathon",
+        "description": "A challenging citywide marathon open to runners of all levels.",
+        "venue": "Venue 4",
+        "price": "$123",
+        "tags": [
+            "festival",
+            "education",
+            "music"
+        ],
+        "location": "Location 37",
+        "date": "2023-05-26",
+        "startTime": "14:14",
+        "endTime": "01:00"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 5",
+        "price": "$22",
+        "tags": [
+            "education"
+        ],
+        "location": "Location 12",
+        "date": "2023-09-20",
+        "startTime": "21:46",
+        "endTime": "09:18"
+    },
+    {
+        "name": "Underground Rock Concert",
+        "description": "A high-energy rock concert featuring emerging and popular bands.",
+        "venue": "Venue 38",
+        "price": "$178",
+        "tags": [
+            "horror",
+            "food"
+        ],
+        "location": "Location 46",
+        "date": "2023-11-26",
+        "startTime": "01:01",
+        "endTime": "09:40"
+    },
+    {
+        "name": "Indie Game Expo",
+        "description": "An expo featuring the latest and most innovative indie video games.",
+        "venue": "Venue 4",
+        "price": "$104",
+        "tags": [
+            "fun",
+            "sports",
+            "food"
+        ],
+        "location": "Location 1",
+        "date": "2023-01-20",
+        "startTime": "20:53",
+        "endTime": "11:17"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 18",
+        "price": "$50",
+        "tags": [
+            "festival",
+            "meetup",
+            "sports"
+        ],
+        "location": "Location 9",
+        "date": "2023-08-19",
+        "startTime": "10:02",
+        "endTime": "01:16"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 50",
+        "price": "$17",
+        "tags": [
+            "food",
+            "meetup",
+            "technology",
+            "education",
+            "art"
+        ],
+        "location": "Location 24",
+        "date": "2023-04-12",
+        "startTime": "12:12",
+        "endTime": "23:54"
+    },
+    {
+        "name": "Sunset Jazz Festival",
+        "description": "An evening of soothing jazz music against the backdrop of a beautiful sunset.",
+        "venue": "Venue 20",
+        "price": "$96",
+        "tags": [
+            "food",
+            "art",
+            "meetup",
+            "horror",
+            "music"
+        ],
+        "location": "Location 12",
+        "date": "2023-10-04",
+        "startTime": "04:15",
+        "endTime": "16:03"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 45",
+        "price": "$132",
+        "tags": [
+            "sports",
+            "education",
+            "horror",
+            "fun",
+            "art"
+        ],
+        "location": "Location 45",
+        "date": "2023-03-03",
+        "startTime": "05:12",
+        "endTime": "17:15"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 23",
+        "price": "$46",
+        "tags": [
+            "technology",
+            "music",
+            "meetup",
+            "fun"
+        ],
+        "location": "Location 26",
+        "date": "2023-02-26",
+        "startTime": "21:56",
+        "endTime": "22:10"
+    },
+    {
+        "name": "Wine Tasting Evening",
+        "description": "An elegant evening of wine tasting, featuring selections from renowned vineyards.",
+        "venue": "Venue 7",
+        "price": "$39",
+        "tags": [
+            "festival",
+            "horror",
+            "art",
+            "food"
+        ],
+        "location": "Location 14",
+        "date": "2023-06-11",
+        "startTime": "15:10",
+        "endTime": "23:47"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 4",
+        "price": "$126",
+        "tags": [
+            "education",
+            "horror",
+            "art"
+        ],
+        "location": "Location 29",
+        "date": "2023-04-23",
+        "startTime": "05:51",
+        "endTime": "00:55"
+    },
+    {
+        "name": "Beach Volleyball Championship",
+        "description": "A competitive beach volleyball tournament set on scenic beaches.",
+        "venue": "Venue 7",
+        "price": "$184",
+        "tags": [
+            "technology",
+            "music"
+        ],
+        "location": "Location 38",
+        "date": "2023-06-05",
+        "startTime": "16:41",
+        "endTime": "19:24"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 15",
+        "price": "$11",
+        "tags": [
+            "horror",
+            "education",
+            "food"
+        ],
+        "location": "Location 9",
+        "date": "2023-10-27",
+        "startTime": "10:17",
+        "endTime": "22:35"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 49",
+        "price": "$196",
+        "tags": [
+            "fun",
+            "sports",
+            "art"
+        ],
+        "location": "Location 28",
+        "date": "2023-03-05",
+        "startTime": "03:47",
+        "endTime": "19:05"
+    },
+    {
+        "name": "Dirty Disco",
+        "description": "An electrifying night of dance and music, featuring top DJs and a vibrant light show.",
+        "venue": "Venue 35",
+        "price": "$46",
+        "tags": [
+            "festival",
+            "art",
+            "fun"
+        ],
+        "location": "Location 3",
+        "date": "2023-01-12",
+        "startTime": "11:48",
+        "endTime": "02:49"
+    },
+    {
+        "name": "Beach Volleyball Championship",
+        "description": "A competitive beach volleyball tournament set on scenic beaches.",
+        "venue": "Venue 45",
+        "price": "$169",
+        "tags": [
+            "festival"
+        ],
+        "location": "Location 44",
+        "date": "2023-03-09",
+        "startTime": "06:41",
+        "endTime": "09:19"
+    },
+    {
+        "name": "Virtual Reality Showcase",
+        "description": "A display of the latest virtual reality technology and interactive experiences.",
+        "venue": "Venue 4",
+        "price": "$178",
+        "tags": [
+            "technology"
+        ],
+        "location": "Location 16",
+        "date": "2023-04-22",
+        "startTime": "22:41",
+        "endTime": "14:48"
+    },
+    {
+        "name": "Classical Music Gala",
+        "description": "An evening of classical music performances by renowned musicians and orchestras.",
+        "venue": "Venue 5",
+        "price": "$138",
+        "tags": [
+            "horror"
+        ],
+        "location": "Location 47",
+        "date": "2023-06-08",
+        "startTime": "16:39",
+        "endTime": "23:48"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 22",
+        "price": "$169",
+        "tags": [
+            "fun"
+        ],
+        "location": "Location 12",
+        "date": "2023-12-26",
+        "startTime": "09:32",
+        "endTime": "01:05"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 9",
+        "price": "$24",
+        "tags": [
+            "education",
+            "festival",
+            "horror",
+            "fun",
+            "technology"
+        ],
+        "location": "Location 30",
+        "date": "2023-08-03",
+        "startTime": "13:26",
+        "endTime": "02:00"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 10",
+        "price": "$19",
+        "tags": [
+            "fun",
+            "sports"
+        ],
+        "location": "Location 46",
+        "date": "2023-04-19",
+        "startTime": "14:45",
+        "endTime": "08:00"
+    },
+    {
+        "name": "Underground Rock Concert",
+        "description": "A high-energy rock concert featuring emerging and popular bands.",
+        "venue": "Venue 37",
+        "price": "$92",
+        "tags": [
+            "education",
+            "sports",
+            "food"
+        ],
+        "location": "Location 38",
+        "date": "2023-12-06",
+        "startTime": "16:47",
+        "endTime": "03:36"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 48",
+        "price": "$151",
+        "tags": [
+            "art",
+            "horror",
+            "music"
+        ],
+        "location": "Location 33",
+        "date": "2023-08-20",
+        "startTime": "18:17",
+        "endTime": "02:26"
+    },
+    {
+        "name": "Classical Music Gala",
+        "description": "An evening of classical music performances by renowned musicians and orchestras.",
+        "venue": "Venue 46",
+        "price": "$194",
+        "tags": [
+            "art",
+            "education",
+            "horror"
+        ],
+        "location": "Location 46",
+        "date": "2023-10-26",
+        "startTime": "02:11",
+        "endTime": "11:30"
+    },
+    {
+        "name": "MongoDB Developer Meetup",
+        "description": "A gathering for software developers to discuss MongoDB techniques and trends.",
+        "venue": "Venue 15",
+        "price": "$135",
+        "tags": [
+            "art",
+            "festival"
+        ],
+        "location": "Location 49",
+        "date": "2023-11-18",
+        "startTime": "19:45",
+        "endTime": "02:13"
+    },
+    {
+        "name": "Local Food Fair",
+        "description": "A celebration of local cuisine with a variety of food stalls and cooking demonstrations.",
+        "venue": "Venue 20",
+        "price": "$138",
+        "tags": [
+            "art"
+        ],
+        "location": "Location 8",
+        "date": "2023-04-28",
+        "startTime": "03:58",
+        "endTime": "17:43"
+    },
+    {
+        "name": "Art in the Park",
+        "description": "An outdoor exhibition showcasing works from local artists in a natural setting.",
+        "venue": "Venue 26",
+        "price": "$54",
+        "tags": [
+            "art",
+            "horror"
+        ],
+        "location": "Location 48",
+        "date": "2023-06-24",
+        "startTime": "22:24",
+        "endTime": "08:20"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 24",
+        "price": "$51",
+        "tags": [
+            "fun",
+            "horror",
+            "sports"
+        ],
+        "location": "Location 38",
+        "date": "2023-06-04",
+        "startTime": "22:10",
+        "endTime": "12:03"
+    },
+    {
+        "name": "Art in the Park",
+        "description": "An outdoor exhibition showcasing works from local artists in a natural setting.",
+        "venue": "Venue 18",
+        "price": "$85",
+        "tags": [
+            "food",
+            "festival",
+            "horror"
+        ],
+        "location": "Location 29",
+        "date": "2023-09-11",
+        "startTime": "23:27",
+        "endTime": "17:00"
+    },
+    {
+        "name": "Yoga Retreat",
+        "description": "A peaceful retreat offering yoga classes and wellness workshops.",
+        "venue": "Venue 2",
+        "price": "$151",
+        "tags": [
+            "festival",
+            "technology",
+            "meetup",
+            "music"
+        ],
+        "location": "Location 44",
+        "date": "2023-10-01",
+        "startTime": "15:29",
+        "endTime": "03:24"
+    },
+    {
+        "name": "Mountain Biking Adventure",
+        "description": "A thrilling mountain biking event through challenging and scenic trails.",
+        "venue": "Venue 14",
+        "price": "$127",
+        "tags": [
+            "meetup"
+        ],
+        "location": "Location 14",
+        "date": "2023-09-20",
+        "startTime": "20:52",
+        "endTime": "12:02"
+    },
+    {
+        "name": "Stand-up Comedy Night",
+        "description": "A hilarious night of stand-up comedy featuring both local and well-known comedians.",
+        "venue": "Venue 16",
+        "price": "$140",
+        "tags": [
+            "education",
+            "meetup",
+            "festival"
+        ],
+        "location": "Location 32",
+        "date": "2023-09-13",
+        "startTime": "07:28",
+        "endTime": "17:52"
+    }
+]

@@ -1,0 +1,550 @@
+[
+    {
+        "name": "Violet 1",
+        "age": 27,
+        "preference": [
+            {
+                "horror": 4.9695,
+                "fun": 9.3792,
+                "technology": 1.3504
+            }
+        ]
+    },
+    {
+        "name": "Fiona 2",
+        "age": 61,
+        "preference": [
+            {
+                "meetup": 4.307,
+                "sports": 1.3193,
+                "art": 2.2885,
+                "music": 4.3854,
+                "fun": 1.2647
+            }
+        ]
+    },
+    {
+        "name": "Diana 3",
+        "age": 36,
+        "preference": [
+            {
+                "art": 9.679
+            }
+        ]
+    },
+    {
+        "name": "Priya 4",
+        "age": 22,
+        "preference": [
+            {
+                "technology": 8.9914,
+                "festival": 2.5775,
+                "fun": 0.784
+            }
+        ]
+    },
+    {
+        "name": "Xiu 5",
+        "age": 28,
+        "preference": [
+            {
+                "technology": 8.5798
+            }
+        ]
+    },
+    {
+        "name": "Qi 6",
+        "age": 58,
+        "preference": [
+            {
+                "music": 9.4139,
+                "fun": 6.6722,
+                "horror": 1.8273,
+                "technology": 5.1446
+            }
+        ]
+    },
+    {
+        "name": "Sam 7",
+        "age": 70,
+        "preference": [
+            {
+                "technology": 1.5218,
+                "meetup": 0.6728,
+                "education": 9.6015,
+                "music": 8.277
+            }
+        ]
+    },
+    {
+        "name": "Julia 8",
+        "age": 23,
+        "preference": [
+            {
+                "food": 6.6218,
+                "fun": 9.9654
+            }
+        ]
+    },
+    {
+        "name": "Miguel 9",
+        "age": 49,
+        "preference": [
+            {
+                "art": 6.419,
+                "education": 5.4621,
+                "fun": 1.3666
+            }
+        ]
+    },
+    {
+        "name": "Nina 10",
+        "age": 29,
+        "preference": [
+            {
+                "education": 4.6289
+            }
+        ]
+    },
+    {
+        "name": "Carlos 11",
+        "age": 46,
+        "preference": [
+            {
+                "art": 2.2162,
+                "fun": 7.3209,
+                "technology": 2.923,
+                "education": 1.3373,
+                "horror": 2.2783
+            }
+        ]
+    },
+    {
+        "name": "Diana 12",
+        "age": 46,
+        "preference": [
+            {
+                "fun": 7.1065,
+                "horror": 1.5124,
+                "art": 1.2198,
+                "meetup": 7.8642,
+                "festival": 4.5563
+            }
+        ]
+    },
+    {
+        "name": "Fiona 13",
+        "age": 21,
+        "preference": [
+            {
+                "horror": 3.0992,
+                "art": 0.5871,
+                "sports": 4.34
+            }
+        ]
+    },
+    {
+        "name": "Hannah 14",
+        "age": 21,
+        "preference": [
+            {
+                "fun": 8.2979,
+                "horror": 2.2894
+            }
+        ]
+    },
+    {
+        "name": "Carlos 15",
+        "age": 18,
+        "preference": [
+            {
+                "fun": 4.0102,
+                "horror": 6.1436,
+                "art": 9.5828,
+                "meetup": 0.6972,
+                "music": 0.7952
+            }
+        ]
+    },
+    {
+        "name": "Qi 16",
+        "age": 34,
+        "preference": [
+            {
+                "festival": 1.3734
+            }
+        ]
+    },
+    {
+        "name": "Ivan 17",
+        "age": 52,
+        "preference": [
+            {
+                "sports": 3.8623,
+                "meetup": 0.7931,
+                "food": 3.6365
+            }
+        ]
+    },
+    {
+        "name": "Alice 18",
+        "age": 46,
+        "preference": [
+            {
+                "technology": 9.3951,
+                "art": 3.6001,
+                "education": 5.9007,
+                "music": 7.9703,
+                "meetup": 4.0431
+            }
+        ]
+    },
+    {
+        "name": "Miguel 19",
+        "age": 62,
+        "preference": [
+            {
+                "music": 4.432
+            }
+        ]
+    },
+    {
+        "name": "Rosa 20",
+        "age": 69,
+        "preference": [
+            {
+                "food": 7.0996,
+                "sports": 5.5191
+            }
+        ]
+    },
+    {
+        "name": "Kevin 21",
+        "age": 24,
+        "preference": [
+            {
+                "sports": 8.553,
+                "festival": 5.3768,
+                "horror": 8.9989
+            }
+        ]
+    },
+    {
+        "name": "Alice 22",
+        "age": 56,
+        "preference": [
+            {
+                "education": 6.8294,
+                "meetup": 5.5423
+            }
+        ]
+    },
+    {
+        "name": "Zack 23",
+        "age": 70,
+        "preference": [
+            {
+                "technology": 0.0586,
+                "sports": 4.593,
+                "art": 1.0224
+            }
+        ]
+    },
+    {
+        "name": "Rosa 24",
+        "age": 55,
+        "preference": [
+            {
+                "technology": 3.3146,
+                "music": 1.4506
+            }
+        ]
+    },
+    {
+        "name": "George 25",
+        "age": 37,
+        "preference": [
+            {
+                "technology": 7.7957,
+                "sports": 6.9964,
+                "fun": 4.9662
+            }
+        ]
+    },
+    {
+        "name": "Rosa 26",
+        "age": 61,
+        "preference": [
+            {
+                "art": 5.7094,
+                "meetup": 2.5321,
+                "food": 5.1859
+            }
+        ]
+    },
+    {
+        "name": "Rosa 27",
+        "age": 51,
+        "preference": [
+            {
+                "technology": 9.3539,
+                "festival": 8.8933,
+                "food": 8.9084,
+                "fun": 2.6958
+            }
+        ]
+    },
+    {
+        "name": "Tina 28",
+        "age": 50,
+        "preference": [
+            {
+                "technology": 5.7311,
+                "art": 7.5545,
+                "meetup": 6.5632,
+                "food": 6.0192,
+                "music": 8.4106
+            }
+        ]
+    },
+    {
+        "name": "Alice 29",
+        "age": 38,
+        "preference": [
+            {
+                "technology": 8.1825,
+                "sports": 8.9797,
+                "horror": 2.9247,
+                "art": 4.289
+            }
+        ]
+    },
+    {
+        "name": "Julia 30",
+        "age": 58,
+        "preference": [
+            {
+                "meetup": 9.3765,
+                "horror": 8.3101,
+                "music": 4.0428
+            }
+        ]
+    },
+    {
+        "name": "Umar 31",
+        "age": 43,
+        "preference": [
+            {
+                "education": 3.556,
+                "fun": 7.0386,
+                "technology": 4.6939,
+                "music": 2.6296
+            }
+        ]
+    },
+    {
+        "name": "Kevin 32",
+        "age": 48,
+        "preference": [
+            {
+                "meetup": 1.9022,
+                "food": 0.364,
+                "education": 5.9955
+            }
+        ]
+    },
+    {
+        "name": "Fiona 33",
+        "age": 38,
+        "preference": [
+            {
+                "sports": 9.3786
+            }
+        ]
+    },
+    {
+        "name": "Xiu 34",
+        "age": 48,
+        "preference": [
+            {
+                "food": 3.0017,
+                "music": 2.6911,
+                "horror": 0.0702,
+                "festival": 5.7322,
+                "education": 7.7437
+            }
+        ]
+    },
+    {
+        "name": "Julia 35",
+        "age": 63,
+        "preference": [
+            {
+                "festival": 8.4242,
+                "fun": 9.7973
+            }
+        ]
+    },
+    {
+        "name": "Tina 36",
+        "age": 21,
+        "preference": [
+            {
+                "music": 3.2863,
+                "fun": 2.6742,
+                "festival": 5.709
+            }
+        ]
+    },
+    {
+        "name": "Julia 37",
+        "age": 38,
+        "preference": [
+            {
+                "festival": 6.8075,
+                "fun": 7.0055,
+                "food": 7.5807
+            }
+        ]
+    },
+    {
+        "name": "Umar 38",
+        "age": 35,
+        "preference": [
+            {
+                "art": 6.8915,
+                "horror": 6.0658,
+                "education": 2.0009,
+                "sports": 8.767,
+                "technology": 5.0194
+            }
+        ]
+    },
+    {
+        "name": "Nina 39",
+        "age": 47,
+        "preference": [
+            {
+                "sports": 5.183,
+                "education": 8.3677
+            }
+        ]
+    },
+    {
+        "name": "Omar 40",
+        "age": 41,
+        "preference": [
+            {
+                "technology": 8.205,
+                "fun": 1.8749
+            }
+        ]
+    },
+    {
+        "name": "Ivan 41",
+        "age": 41,
+        "preference": [
+            {
+                "food": 2.1005,
+                "art": 8.3769,
+                "fun": 4.5322,
+                "festival": 6.5045,
+                "technology": 2.857
+            }
+        ]
+    },
+    {
+        "name": "Julia 42",
+        "age": 40,
+        "preference": [
+            {
+                "education": 6.2746,
+                "technology": 7.3463,
+                "music": 7.8256
+            }
+        ]
+    },
+    {
+        "name": "Sam 43",
+        "age": 42,
+        "preference": [
+            {
+                "art": 8.5856,
+                "education": 8.6856,
+                "festival": 1.2458,
+                "horror": 9.3498
+            }
+        ]
+    },
+    {
+        "name": "Zack 44",
+        "age": 55,
+        "preference": [
+            {
+                "music": 8.8424,
+                "food": 6.0822
+            }
+        ]
+    },
+    {
+        "name": "Tina 45",
+        "age": 70,
+        "preference": [
+            {
+                "sports": 3.5952,
+                "music": 2.9832
+            }
+        ]
+    },
+    {
+        "name": "Omar 46",
+        "age": 28,
+        "preference": [
+            {
+                "food": 7.0295,
+                "art": 2.6324,
+                "technology": 5.347
+            }
+        ]
+    },
+    {
+        "name": "Alice 47",
+        "age": 63,
+        "preference": [
+            {
+                "food": 1.9926
+            }
+        ]
+    },
+    {
+        "name": "William 48",
+        "age": 40,
+        "preference": [
+            {
+                "festival": 0.1812,
+                "sports": 0.2908
+            }
+        ]
+    },
+    {
+        "name": "Fiona 49",
+        "age": 37,
+        "preference": [
+            {
+                "art": 4.8748,
+                "food": 8.9413,
+                "technology": 9.7835
+            }
+        ]
+    },
+    {
+        "name": "Miguel 50",
+        "age": 64,
+        "preference": [
+            {
+                "technology": 9.9839,
+                "food": 9.2564
+            }
+        ]
+    }
+]
